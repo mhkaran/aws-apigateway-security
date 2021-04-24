@@ -1,0 +1,15 @@
+{
+  "name": "authorapi",
+  "version": "1.0.0",
+  "description": "This API will expose all the data related to Authors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karan Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.0"
+  }
+}
